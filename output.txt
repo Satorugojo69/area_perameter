@@ -1,0 +1,2 @@
+Area of Rectangle is :50
+Perimeter of Rectangle is :30
